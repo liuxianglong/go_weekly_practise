@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/github.com/cpuguy83/go-md2man" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/fatih/color" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-xorm/xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/qit-team/snow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/urfave/cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xorm.io/builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xorm.io/core" vcs="Git" />
+  </component>
+</project>
